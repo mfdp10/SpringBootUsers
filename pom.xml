@@ -11,7 +11,7 @@
 	<groupId>com.cursojava</groupId>
 	<artifactId>curso</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>curso</name>
 	<description>curso</description>
 	<properties>
