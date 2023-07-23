@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.cursojava.curso.CursoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.883 s - in com.cursojava.curso.CursoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.122 s - in com.cursojava.curso.CursoApplicationTests
